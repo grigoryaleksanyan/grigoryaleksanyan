@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
     <h1>Hi there, I'm  Grigory 👋</h1>
     <h3>Full Stack Developer from St. Petersburg</h3>

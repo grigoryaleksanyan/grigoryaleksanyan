@@ -35,3 +35,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=grigoryaleksanyan&theme=transparent" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grigoryaleksanyan&theme=transparent" alt=""/>
 </div>
+
+![Codewars](https://github.r2v.ch/codewars?user=grigoryaleksanyan&stroke=%23BB432C)

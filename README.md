@@ -36,6 +36,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grigoryaleksanyan&theme=transparent" alt=""/>
 </div>
 
-<div id="сodewars" align="center">
 ![Codewars](https://github.r2v.ch/codewars?user=grigoryaleksanyan&stroke=%23BB432C)
-</div>

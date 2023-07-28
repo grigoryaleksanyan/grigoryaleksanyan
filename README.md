@@ -37,5 +37,5 @@
 </div>
 
 <div id="сodewars" align="center">
-    ![Codewars](https://github.r2v.ch/codewars?user=grigoryaleksanyan&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=grigoryaleksanyan&stroke=%23BB432C)
 </div>
